@@ -9,7 +9,7 @@ const Footer = () => {
           <div className="md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <Icon name="Gem" className="text-amber-400" size={32} />
-              <h3 className="text-2xl font-bold font-serif">Pearl Anchor</h3>
+              <h3 className="text-2xl font-bold font-serif">Elle Jewelry</h3>
             </div>
             <p className="text-gray-300 mb-6 max-w-md">
               Следите за нами в социальных сетях для получения новостей о новых
@@ -98,7 +98,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-700 mt-12 pt-8 text-center text-gray-400">
-          <p>&copy; 2024 Pearl Anchor. Все права защищены.</p>
+          <p>&copy; 2024 Elle Jewelry. Все права защищены.</p>
         </div>
       </div>
     </footer>
