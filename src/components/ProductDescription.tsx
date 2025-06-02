@@ -34,7 +34,7 @@ const ProductDescription = () => {
             <Card className="overflow-hidden hover:shadow-lg transition-shadow">
               <CardContent className="p-0">
                 <img
-                  src="https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=300&h=300&fit=crop"
+                  src="https://cdn.poehali.dev/files/d2d5fffe-0830-4918-9c26-0dd84351302c.jpg"
                   alt="Серьги с жемчугом - вид 1"
                   className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
                 />
@@ -44,7 +44,7 @@ const ProductDescription = () => {
             <Card className="overflow-hidden hover:shadow-lg transition-shadow">
               <CardContent className="p-0">
                 <img
-                  src="https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=300&h=300&fit=crop"
+                  src="https://cdn.poehali.dev/files/d2d5fffe-0830-4918-9c26-0dd84351302c.jpg"
                   alt="Серьги с жемчугом - вид 2"
                   className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
                 />
@@ -54,7 +54,7 @@ const ProductDescription = () => {
             <Card className="overflow-hidden hover:shadow-lg transition-shadow col-span-2">
               <CardContent className="p-0">
                 <img
-                  src="https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=600&h=200&fit=crop"
+                  src="https://cdn.poehali.dev/files/d2d5fffe-0830-4918-9c26-0dd84351302c.jpg"
                   alt="Серьги с жемчугом - детали"
                   className="w-full h-32 object-cover hover:scale-105 transition-transform duration-300"
                 />
